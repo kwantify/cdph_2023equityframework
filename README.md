@@ -2,7 +2,7 @@
 
 !!!! This is the README file for the replication code corresponding to the following research article:<br/>
 
-Title:  Integrating Health Equity into Policy: A Framework for Addressing COVID-19 Disparities in California through Equity-Focused Implementation, Monitoring, and Evaluation<br/>
+Title: The integration of health equity into policy to reduce disparities: Lessons from California during the COVID-19 pandemic<br/>
 
 Authors: Ada T. Kwan PhD, MHS1*, Jason Vargo PhD, MPH2,3*, Caroline Kurtz PhD2, Mayuri Panditrao, PhD, MPH2, Christopher M. Hoover PhD, MPH2, Tomás M. León PhD2, David Rocha2, William Wheeler PhD2, Seema Jain MD, MPH2, Erica S. Pan MD MPH2,4, Priya B. Shete MD, MPH1<br/>
 1. Division of Pulmonary and Critical Care Medicine, San Francisco General Hospital, University of California San Francisco, San Francisco, CA USA <br/>
@@ -13,10 +13,10 @@ Authors: Ada T. Kwan PhD, MHS1*, Jason Vargo PhD, MPH2,3*, Caroline Kurtz PhD2, 
 *Authors contributed equally to this work.<br/>
 
 Corresponding Author:\
-Priya B. Shete\
+Ada T. Kwan\
 San Francisco General Hospital \
-1001 Potrero Avenue 5K1\
+1001 Potrero Avenue #4106\
 San Francisco CA 94110\
-Email: priya.shete@ucsf.edu\
+Email: ada.kwan@ucsf.edu\
  
  
